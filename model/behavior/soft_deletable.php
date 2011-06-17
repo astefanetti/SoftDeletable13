@@ -3,11 +3,13 @@
 /**
  * SoftDeletable Behavior class file.
  * Based on the SoftDeletable Behavior by Mariano Iglesias
- * and softdeletable2 by Mariano Iglesias
+ * and softdeletable2 by Igor Fomin
  * http://cake-syrup.sourceforge.net/ingredients/soft-deletable-behavior/
  * http://github.com/evilbloodydemon/cakephp-softdeletable2
  *
  * @filesource
+ * @author Mariano Iglesias
+ * @author Igor Fomin (evilbloodydemon@gmail.com)
  * @author Alessio Stefanetti (alessio.stefanetti@gmail.com)
  * @link https://github.com/astefanetti/SoftDeletable13
  * @license	http://www.opensource.org/licenses/mit-license.php The MIT License
